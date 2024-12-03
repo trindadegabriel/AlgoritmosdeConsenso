@@ -1,0 +1,11 @@
+# Gerenciamento de logs
+logging
+
+# Gerenciamento de threads
+threading
+
+# Comunicação simulada
+socket
+
+# Troca de mensagens estruturadas
+json
