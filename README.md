@@ -10,8 +10,5 @@ pip install -r requirements.txt
 
 
 ## Como Executar
-1. Clone o repositório:
-git clone https://github.com/seu-usuario/Raft-Consensus.git cd Raft-Consensus
-
-2. Execute a simulação:
+ Execute a simulação:
 python src/cluster.py
