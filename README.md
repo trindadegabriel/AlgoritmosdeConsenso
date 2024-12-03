@@ -1,5 +1,3 @@
-# AlgoritmosdeConsenso
-
 # Algoritmo de Consenso Raft
 
 ## Descrição
